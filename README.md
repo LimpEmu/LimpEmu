@@ -1,4 +1,10 @@
-### Hi there 👋
+### Started using GitHub on 11/15/2023
+
+🌱 
+I love to learn something new every day, teach me something!
+
+💬 
+Ask me about full stack web development using SAS on the backend and HTML, JavaScript (JavaScript libraries) and CSS on the frontend.
 
 <!--
 **LimpEmu/LimpEmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
